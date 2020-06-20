@@ -21,8 +21,8 @@ package com.barrysheehan.www;
 public class TextSimplifier implements TextSwapper {
 
 	// Instance variables
-	private String dictionaryFile = "./dictionaryFile.txt"; // Default path to dictionaryFile
-	private String wordListFile = "./wordListFile.txt"; // Default path to wordListFile
+	private String dictionaryFile = "../dictionaryFile.txt"; // Default path to dictionaryFile
+	private String wordListFile = "../wordListFile.txt"; // Default path to wordListFile
 	private Thesaurus thesaurus; // thesaurus stores Thesaurus currently in use
 
 	// configured flag used to determine whether TextSimplifier object is configured

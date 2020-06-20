@@ -1,0 +1,10 @@
+time
+person
+year
+way
+day
+thing
+man
+world
+life
+hand

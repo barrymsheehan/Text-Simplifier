@@ -95,7 +95,7 @@ public class ConfigurationInteractable implements Interactable {
 				if (FileReader.fileExists(ts.getDictionaryFile())) { // Check that file exists at path of current
 																		// Dictionary file
 					System.out.println(ConsoleColour.colourize("GREEN",
-							"> Current Word List file accepted: " + ts.getDictionaryFile() + "\n"));
+							"> Current Dictionary file accepted: " + ts.getDictionaryFile() + "\n"));
 					keepAlive = false; // Stop the loop
 				} else { // File does not exist
 					System.out.println(ConsoleColour.colourize("RED",

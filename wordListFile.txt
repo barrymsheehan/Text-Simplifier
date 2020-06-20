@@ -1,0 +1,10 @@
+time,age,date,day,era,future,generation,hour,life,moment,month,occasion,pace,past,point,present,season,second,space,stage,term,turn,week,while,year
+person,body,character,customer,guy,human,individual,life,man,somebody,woman
+year,age,date,day,era,future,generation,hour,life,moment,month,occasion,pace,past,point,present,season,second,space,stage,term,turn,week,while
+way,action,approach,course,fashion,form,idea,manner,means,measure,move,plan,policy,practice,procedure,process,step,style,system,thing,use
+day,daylight,daytime,light,sunlight,sunshine
+thing,anything,business,concept,concern,element,everything,fact,information,item,material,matter,object,part,person,phenomenon,piece,point,situation,stuff,subject,word
+man,brother,father,fellow,guy,he,husband,son
+world,earth,nature
+life,activity,growth,heart,soul
+hand,fist,grip,palm

@@ -41,7 +41,7 @@ public class Thesaurus extends AbstractThesaurus {
 	 * Parses a .txt file and adds its contents to the <i>dictionaryString</i>
 	 * instance variable.
 	 * <p>
-	 * If the suppplied path does not lead to a .txt file, or the file can not be
+	 * If the supplied path does not lead to a .txt file, or the file can not be
 	 * read, the user is informed
 	 * 
 	 * @param pathToTextFile the path to a text file to be parsed
@@ -62,7 +62,7 @@ public class Thesaurus extends AbstractThesaurus {
 	 * Parses a text file and adds its contents to the <i>wordListString</i>
 	 * instance variable.
 	 * <p>
-	 * If the suppplied path does not lead to a .txt file, or the file can not be
+	 * If the supplied path does not lead to a .txt file, or the file can not be
 	 * read, the user is informed
 	 * 
 	 * @param pathToTextFile the path to a text file to be parsed
