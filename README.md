@@ -20,7 +20,7 @@ The idea is that words in the wordListFile are grouped into groups of words that
 ### Example
 A default _dictionaryFile.txt_ and _wordListFile.txt_ are included to illustrate the basic operation of the program.
 
-The default _dictionaryFile.txt_ included in the _config_ directory was sourced from the [1000 most common English words on 1000mostcommonwords.com] (https://1000mostcommonwords.com/1000-most-common-english-words/)
+The default _dictionaryFile.txt_ included in the _config_ directory was sourced from the [1000 most common English words on 1000mostcommonwords.com](https://1000mostcommonwords.com/1000-most-common-english-words/)
 
 The default _wordListFile.txt_ included in the _config_ directory includes words from the [moby-thesaurus.org](http://moby-thesaurus.org/). A small selection of the words from the Moby Thesaurus is included to keep the size of this file to roughly 100KB.
 
